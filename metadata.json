@@ -1,0 +1,5 @@
+{
+  "name": "CodeZip Sandbox & Analyst",
+  "description": "Upload, explore, and analyze code projects from ZIP files using Gemini. This tool unzips your source code locally and uses AI to explain, debug, and simulate execution results.",
+  "requestFramePermissions": []
+}
